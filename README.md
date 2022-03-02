@@ -1,7 +1,7 @@
 <p> Hello, Everyone </p>
 
 This project uses a job to send queue email. 
-
+    
 let's configure the project:
 
 open your terminal and use these commands:
